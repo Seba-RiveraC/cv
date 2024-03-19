@@ -1,0 +1,11 @@
+body{
+    padding: 50px 100px ;
+    font-family: "Cinzel", serif;
+}
+/* Clases = .
+ID = #
+*/
+
+.foto{
+    border-radius: 10px;
+}
